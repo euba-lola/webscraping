@@ -1,4 +1,4 @@
-c# Web Scraping with Python: A Hands-On Notebook
+# Web Scraping with Python: A Hands-On Notebook
 
 This repository contains a Jupyter Notebook that demonstrates how to perform **basic web scraping** using Python. Whether you're just starting out or brushing up on your skills, this notebook walks you through the fundamental steps for extracting data from websites in a structured, beginner-friendly way.
 
