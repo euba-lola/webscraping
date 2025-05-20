@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook that demonstrates how to perform **b
 
 ---
 
-## 📌 What's Inside?
+##  What's Inside?
 
 - ✅ Setting up your scraping environment  
 - ✅ Fetching webpage content with `requests`  
@@ -15,7 +15,7 @@ This repository contains a Jupyter Notebook that demonstrates how to perform **b
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - `requests` – for sending HTTP requests  
 - `BeautifulSoup` – for parsing HTML and navigating tags  
@@ -24,5 +24,5 @@ This repository contains a Jupyter Notebook that demonstrates how to perform **b
 
 ---
 
-## 📁 File Structure
+
 
